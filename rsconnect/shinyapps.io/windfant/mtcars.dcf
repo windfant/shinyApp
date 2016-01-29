@@ -1,0 +1,8 @@
+name: mtcars
+account: windfant
+server: shinyapps.io
+bundleId: 360583
+url: https://windfant.shinyapps.io/mtcars/
+when: 1453990523.30674
+asMultiple: FALSE
+asStatic: FALSE
